@@ -22,11 +22,12 @@ Table of contents
 # Engines
 [A homepage](http://github.com)[:octocat:](http://github.com):moneybag:
 
-
-Flat Red Ball
-Wave
-FNA
-
+* A
+  * Adventure Game Studio https://www.adventuregamestudio.co.uk/
+  * Amulet
+  * AppGameKit
+  * Arcade
+  * Allegro
 Adventure Game Studio
 ALGE SDK
 Allegro
@@ -35,11 +36,19 @@ AndEngine
 Angel2D
 App Game Kit
 AppGameKit 2.0
+* B
+  * Buildbox https://www.buildbox.com/
+  * BYOND
 BennuGD
 Blacksmith 2D
 BlitzMax
 Buildbox
 BYOND
+* C
+  * Clickteam Fusion
+  * Cocos2d
+  * Construct 3
+  * Cub3D
 Clickteam Fusion
 Cocos2D
 Cocos2D-X
@@ -51,20 +60,33 @@ CreateJS
 CRM32Pro SDK
 ct.js
 Cub3D
+* D
+  * Defold
+  * Duality
 Defold
 DirectSpace
 Duality
-Ebiten
+* E
+  * Ebiten
 Ejecta
 Engine 001 Game Maker
 ENIGMA Development Environment
 Ethanon Engine
+* F
+  * FNA 
+  * friGame
 Felgo (formerly V-Play)
 Flambe
 FlashPunk
 Flat Red Ball
 FlatRedBall
 Flixel
+* G
+  * GameMaker Studio 2 https://www.yoyogames.com/gamemaker
+  * Gameplay3D
+  * GameSalad
+  * GDevelop https://gdevelop-app.com/
+  * Godot Engine https://godotengine.org/
 GameMaker Studio 2
 GameSalad
 GameStylus
@@ -79,17 +101,32 @@ Godot
 Gosu
 Grid
 Grit Engine
+* H
+  * HaxeFlixel
+  * Heaps
 HaxeFlixel
 HaxePunk
-ImpactJS
+* I
+  * ImpactJS
+* J
+  * jMonkey3
+* K
+  * Kivy
+  * KivEnt
 Kirikiri Adventure Game
 Kivy
+* L
+  * libGDX
+  * LÖVE https://love2d.org/
+  * LITIengine
 Leadwerks Game Engine
 libGDX
 LITIengine
 Loom SDK
 luxe
 LÖVE
+* M
+  * MonoGame
 Marmalade SDK
 Melharfi
 Microsoft XNA Game Studio
@@ -98,16 +135,29 @@ Modd.io
 Monkey X
 Monkey2
 MonoGame
+* N
+  * nCine https://ncine.github.io/
 nCine
 Nez
 Nightmod
 NScripter
+* O
+  * OpenFL
+  * Orx
+  * Oxygine
 Object-Oriented Programming with Objective-C - Apple Guide
 OpenFL
 Orx
 Otter2D
 Overlap 2D
 Oxygine 2D C++ Game Framework
+* P
+  * Phaser
+  * PixiJS
+  * Pygame
+  * Poston
+  * Pyglet
+  * Polycode
 Panda JS
 Paradox 3D
 Phaser.io
@@ -118,100 +168,17 @@ Polycode
 Pygame
 Pyglet
 Pyxel Edit
-Rainbow
-raylib
-Ren'Py
-Roblox Studio
-RPG Maker
-Scratch
-SDL
-SFML
-ShiVa
-Solarus Engine
-SpriteKit
-Starling
-Stencyl
-Superpowers HTML5
-The Doryen Library (libtcod)
-The Minko Engine
-TIC-80
-Torque 2D MIT
-Tumult Hype
-Turbulenz
-Twine
-UDK
-Unity
-Unreal Engine 4
-Urho3D
-uScript + Unity3D
-Wave
-WiMi5
-Wintermute Engine
-Yae
-
-* A
-  * Adventure Game Studio https://www.adventuregamestudio.co.uk/
-  * Amulet
-  * AppGameKit
-  * Arcade
-  * Allegro
-* B
-  * Buildbox https://www.buildbox.com/
-  * BYOND
-* C
-  * Clickteam Fusion
-  * Cocos2d
-  * Construct 3
-  * Cub3D
-* D
-  * Defold
-  * Duality
-* E
-  * e
-* F
-  * FNA 
-  * friGame
-* G
-  * GameMaker Studio 2 https://www.yoyogames.com/gamemaker
-  * Gameplay3D
-  * GameSalad
-  * GDevelop https://gdevelop-app.com/
-  * Godot Engine https://godotengine.org/
-* H
-  * HaxeFlixel
-  * Heaps
-* I
-  * ImpactJS
-* J
-  * jMonkey3
-* K
-  * Kivy
-  * KivEnt
-* L
-  * libGDX
-  * LÖVE https://love2d.org/
-  * LITIengine
-* M
-  * MonoGame
-* N
-  * nCine https://ncine.github.io/
-* O
-  * OpenFL
-  * Orx
-  * Oxygine
-* P
-  * Phaser
-  * PixiJS
-  * Pygame
-  * Poston
-  * Pyglet
-  * Polycode
 * Q
   * q
 * R
   * Raylib
   * Ren’Py
   * RPG Maker  
+Rainbow
+raylib
+Ren'Py
+Roblox Studio
+RPG Maker
 * S
   * SDL
   * SFML
@@ -221,20 +188,40 @@ Yae
   * Superpowers
   * SpiteKit
   * Spring Engine
+Scratch
+SDL
+SFML
+ShiVa
+Solarus Engine
+SpriteKit
+Starling
+Stencyl
+Superpowers HTML5
 * T
   * Tilengine
+The Doryen Library (libtcod)
+The Minko Engine
+TIC-80
+Torque 2D MIT
+Tumult Hype
+Turbulenz
+Twine
 * U
   * Unity 2D https://unity.com/solutions/2d
   * Unreal Engine
   * Urho3D
+UDK
+uScript + Unity3D
 * V
   * v
 * W
-  * w
+  * Wave
+WiMi5
+Wintermute Engine
 * X
   * Xenko
 * Y
-  * y
+  * Yae
 * Z
   * z
 
