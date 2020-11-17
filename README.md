@@ -235,4 +235,16 @@ Wintermute Engine
 # ToDo
 - [x] https://thomasgervraud.com/best-2d-game-engine
 - [x] https://www.slant.co/topics/341/~best-2d-game-engines
-- [ ] This is an incomplete item
+- [ ] https://de.wikipedia.org/wiki/Liste_von_Spiel-Engines
+- [ ] https://en.wikipedia.org/wiki/List_of_game_engines
+- [ ] https://github.com/collections/game-engines
+- [ ] https://awesomeopensource.com/projects/2d-game-engine
+- [ ] https://www.reddit.com/r/gamedev/comments/a7k9d0/recommendations_for_2d_game_engines/
+- [ ] https://www.reddit.com/r/gamedev/comments/45vahr/list_of_2d_game_engines_which_would_you_recommend/
+- [ ] https://www.reddit.com/r/gamedev/comments/ckpxud/looked_at_30_game_engines_for_2d_and_compiled/
+- [ ] https://www.g2.com/categories/game-engine
+- [ ] https://github.com/killop/anything_about_game
+- [ ] https://github.com/Kavex/GameDev-Resources
+- [ ] https://github.com/Calinou/awesome-gamedev
+- [ ] https://github.com/ellisonleao/magictools
+- [ ] https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started
