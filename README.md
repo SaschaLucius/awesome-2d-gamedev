@@ -21,60 +21,93 @@ Table of contents
 
 # Engines
 [A homepage](http://github.com)[:octocat:](http://github.com):moneybag:
+
 * A
-  * a
+  * Adventure Game Studio https://www.adventuregamestudio.co.uk/
+  * Amulet
+  * AppGameKit
+  * Arcade
 * B
-  * b
+  * Buildbox https://www.buildbox.com/
+  * BYOND
 * C
-  * c
+  * Clickteam Fusion
+  * Cocos2d
+  * Construct 3
 * D
-  * d
+  * Defold
+  * Duality
 * E
   * e
 * F
-  * f  
+  * FNA  
 * G
-  * g
+  * GameMaker Studio 2 https://www.yoyogames.com/gamemaker
+  * Gameplay3D
+  * GameSalad
+  * GDevelop https://gdevelop-app.com/
+  * Godot Engine https://godotengine.org/
 * H
-  * h
+  * HaxeFlixel
+  * Heaps
 * I
   * i
 * J
   * j
 * K
-  * k
+  * Kivy
 * L
-  * l
+  * libGDX
+  * LÖVE https://love2d.org/
 * M
-  * a
+  * MonoGame
 * N
-  * b
+  * nCine
 * O
-  * c
+  * OpenFL
+  * Orx
+  * Oxygine
 * P
-  * d
+  * Phaser
+  * PixiJS
+  * pygame
 * Q
-  * e
+  * q
 * R
-  * f  
+  * Raylib
+  * Ren’Py
+  * RPG Maker  
 * S
-  * g
+  * SDL
+  * SFML
+  * Solar2D (previously Corona)
+  * Starling
+  * Stencyl
+  * Superpowers
 * T
-  * h
+  * Tilengine
 * U
-  * i
+  * Unity 2D https://unity.com/solutions/2d
+  * Unreal Engine
+  * Urho3D
 * V
-  * j
+  * v
 * W
-  * k
+  * w
 * X
-  * l
+  * Xenko
 * Y
-  * k
+  * y
 * Z
-  * l
+  * z
+
+
+# No 2d Engines
+* CopperCube
+* GameGuru https://www.game-guru.com/
+
 
 
 # ToDo
-- [x] This is a complete item
+- [x] https://thomasgervraud.com/best-2d-game-engine
 - [ ] This is an incomplete item
