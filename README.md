@@ -38,11 +38,11 @@ Table of contents
   * Blacksmith 2D https://blacksmith2d.io/
   * BlitzMax https://blitzmax.org/
 * C
-  * Clickteam Fusion
-  * Cocos2d
-  * Construct 3
+  * Clickteam Fusion https://www.clickteam.com/compare-versions
+  * Cocos (Creator, 2D-X) https://www.cocos.com/en/
+  * Construct 3 https://www.construct.net/en
   * Cub3D
-Cocos2D-X
+
 Codea
 Corona SDK
 Crafty.js
