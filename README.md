@@ -34,27 +34,21 @@ Table of contents
 * B
   * Buildbox https://www.buildbox.com/
   * BYOND
-BennuGD
-Blacksmith 2D
-BlitzMax
-Buildbox
-BYOND
+  * BennuGD https://www.bennugd.org/
+  * Blacksmith 2D https://blacksmith2d.io/
+  * BlitzMax https://blitzmax.org/
 * C
   * Clickteam Fusion
   * Cocos2d
   * Construct 3
   * Cub3D
-Clickteam Fusion
-Cocos2D
 Cocos2D-X
 Codea
-Construct 2
 Corona SDK
 Crafty.js
 CreateJS
 CRM32Pro SDK
 ct.js
-Cub3D
 * D
   * Defold
   * Duality
@@ -243,3 +237,4 @@ Wintermute Engine
 - [ ] https://github.com/Calinou/awesome-gamedev
 - [ ] https://github.com/ellisonleao/magictools
 - [ ] https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started
+- [ ] https://www.indiedb.com/engines
