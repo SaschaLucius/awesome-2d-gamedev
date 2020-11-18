@@ -24,18 +24,13 @@ Table of contents
 
 * A
   * Adventure Game Studio https://www.adventuregamestudio.co.uk/
-  * Amulet
-  * AppGameKit
-  * Arcade
-  * Allegro
-Adventure Game Studio
-ALGE SDK
-Allegro
-Amulet
-AndEngine
-Angel2D
-App Game Kit
-AppGameKit 2.0
+  * Amulet https://www.amulet.xyz/
+  * AppGameKit (Studio, Classic, Mobile) https://www.appgamekit.com/
+  * Arcade https://github.com/pythonarcade/arcade
+  * Allegro https://liballeg.org/
+  * ALGE SDK https://github.com/AcnodeLabs/AlgeSDK https://three6tdegree.wordpress.com/what-is-alge-sdk/ https://facebook.com/algesdk/store
+  * AndEngine https://github.com/nicolasgramlich/AndEngine
+  * Angel2D https://github.com/angel2d/angel2d
 * B
   * Buildbox https://www.buildbox.com/
   * BYOND
