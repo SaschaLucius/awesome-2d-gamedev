@@ -41,20 +41,16 @@ Table of contents
   * Clickteam Fusion https://www.clickteam.com/compare-versions
   * Cocos (Creator, 2D-X) https://www.cocos.com/en/
   * Construct 3 https://www.construct.net/en
-  * Cub3D
-
-Codea
-Corona SDK
-Crafty.js
-CreateJS
-CRM32Pro SDK
-ct.js
+  * Codea https://codea.io/
+  * Corona SDK is now Solar2D
+  * Crafty.js https://craftyjs.com/
+  * CreateJS https://createjs.com/
+  * CRM32Pro SDK http://www.megastormsystems.com/gdks/crm32pro
+  * ct.js https://ctjs.rocks/
 * D
   * Defold
   * Duality
-Defold
-DirectSpace
-Duality
+  * DirectSpace
 * E
   * Ebiten
 Ejecta
@@ -171,7 +167,7 @@ RPG Maker
 * S
   * SDL
   * SFML
-  * Solar2D (previously Corona)
+  * Solar2D (previously Corona SDK) https://solar2d.com/
   * Starling
   * Stencyl
   * Superpowers
@@ -219,7 +215,8 @@ Wintermute Engine
 * CopperCube
 * GameGuru https://www.game-guru.com/
 
-
+# Other stuff
+  * Cub3D https://harm-smits.github.io/42docs/projects/cub3d.html 
 
 # ToDo
 - [x] https://thomasgervraud.com/best-2d-game-engine
