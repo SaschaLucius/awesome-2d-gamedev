@@ -11,17 +11,11 @@ resources for 2D game development
 
 Table of contents
 =================
- * [Table of contents](#table-of-contents)
- * [Colour Palettes](#colour-palettes)
- * [Engines](#engines)
- * [Stores](#stores)
-
-# Colour Palettes
-* https://lospec.com/palette-list
-* https://www.pixilart.com/palettes
-* https://www.pinterest.de/NeightBit/color-palettes/
-* https://www.pinterest.de/urbanbreznik/color-ramps/
-* https://www.slynyrd.com/blog/2018/1/10/pixelblog-1-color-palettes
+* [Table of contents](#table-of-contents)
+* [Engines](#engines)
+* [Pixel Art](#pixel-art)
+  * [Colour Palettes](#colour-palettes)
+* [Stores](#stores)
 
 # Engines
 [A homepage](http://github.com)[:octocat:](http://github.com):moneybag:
@@ -220,7 +214,16 @@ Table of contents
 ## Other stuff
   * Cub3D https://harm-smits.github.io/42docs/projects/cub3d.html 
   
-  
+
+
+# Pixel Art
+## Colour Palettes
+* https://lospec.com/palette-list
+* https://www.pixilart.com/palettes
+* https://www.pinterest.de/NeightBit/color-palettes/
+* https://www.pinterest.de/urbanbreznik/color-ramps/
+* https://www.slynyrd.com/blog/2018/1/10/pixelblog-1-color-palettes
+
 # Stores
 * https://itch.io/
 * https://www.humblebundle.com/
