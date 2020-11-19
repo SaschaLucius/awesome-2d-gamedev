@@ -54,37 +54,37 @@ Table of contents
 * F
   * FNA 
   * friGame
-Felgo (formerly V-Play)
-Flambe
-FlashPunk
-Flat Red Ball
-FlatRedBall
-Flixel
+  * Felgo (formerly V-Play)
+  * Flambe
+  * FlashPunk
+  * Flat Red Ball
+  * FlatRedBall
+  * Flixel
 * G
   * GameMaker Studio 2 https://www.yoyogames.com/gamemaker
   * Gameplay3D
   * GameSalad
   * GDevelop https://gdevelop-app.com/
   * Godot Engine https://godotengine.org/
-GameMaker Studio 2
-GameSalad
-GameStylus
-GDevApp
-GDevelop
-Genome2D
-Gideros
-Gingee
-GLBasic
-GMKR
-Godot
-Gosu
-Grid
-Grit Engine
+  * GameMaker Studio 2
+  * GameSalad
+  * GameStylus
+  * GDevApp
+  * GDevelop
+  * Genome2D
+  * Gideros
+  * Gingee
+  * GLBasic
+  * GMKR
+  * Godot
+  * Gosu
+  * Grid
+  * Grit Engine
 * H
   * HaxeFlixel
   * Heaps
-HaxeFlixel
-HaxePunk
+  * HaxeFlixel
+  * HaxePunk
 * I
   * ImpactJS
 * J
@@ -92,44 +92,43 @@ HaxePunk
 * K
   * Kivy
   * KivEnt
-Kirikiri Adventure Game
-Kivy
+  * Kirikiri Adventure Game
+  * Kivy
 * L
   * libGDX
   * LÖVE https://love2d.org/
   * LITIengine
-Leadwerks Game Engine
-libGDX
-LITIengine
-Loom SDK
-luxe
-LÖVE
+  * Leadwerks Game Engine
+  * libGDX
+  * LITIengine
+  * Loom SDK
+  * luxe
+  * LÖVE
 * M
   * MonoGame
-Marmalade SDK
-Melharfi
-Microsoft XNA Game Studio
-Moai SDK
-Modd.io
-Monkey X
-Monkey2
-MonoGame
+  * Marmalade SDK
+  * Melharfi
+  * Microsoft XNA Game Studio
+  * Moai SDK
+  * Modd.io
+  * Monkey X
+  * Monkey2
+  * MonoGame
 * N
   * nCine https://ncine.github.io/
-nCine
-Nez
-Nightmod
-NScripter
+  * nCine
+  * Nez
+  * Nightmod
+  * NScripter
 * O
   * OpenFL
   * Orx
   * Oxygine
-Object-Oriented Programming with Objective-C - Apple Guide
-OpenFL
-Orx
-Otter2D
-Overlap 2D
-Oxygine 2D C++ Game Framework
+  * OpenFL
+  * Orx
+  * Otter2D
+  * Overlap 2D
+  * Oxygine 2D C++ Game Framework
 * P
   * Phaser
   * PixiJS
@@ -137,27 +136,27 @@ Oxygine 2D C++ Game Framework
   * Poston
   * Pyglet
   * Polycode
-Panda JS
-Paradox 3D
-Phaser.io
-PICO-8
-Pixel
-PlayMaker + Unity3D
-Polycode
-Pygame
-Pyglet
-Pyxel Edit
+  * Panda JS
+  * Paradox 3D
+  * Phaser.io
+  * PICO-8
+  * Pixel
+  * PlayMaker + Unity3D
+  * Polycode
+  * Pygame
+  * Pyglet
+  * Pyxel Edit
 * Q
   * q
 * R
   * Raylib
   * Ren’Py
   * RPG Maker  
-Rainbow
-raylib
-Ren'Py
-Roblox Studio
-RPG Maker
+  * Rainbow
+  * raylib
+  * Ren'Py
+  * Roblox Studio
+  * RPG Maker
 * S
   * SDL
   * SFML
@@ -167,36 +166,36 @@ RPG Maker
   * Superpowers
   * SpiteKit
   * Spring Engine
-Scratch
-SDL
-SFML
-ShiVa
-Solarus Engine
-SpriteKit
-Starling
-Stencyl
-Superpowers HTML5
+  * Scratch
+  * SDL
+  * SFML
+  * ShiVa
+  * Solarus Engine
+  * SpriteKit
+  * Starling
+  * Stencyl
+  * Superpowers HTML5
 * T
   * Tilengine
-The Doryen Library (libtcod)
-The Minko Engine
-TIC-80
-Torque 2D MIT
-Tumult Hype
-Turbulenz
-Twine
+  * The Doryen Library (libtcod)
+  * The Minko Engine
+  * TIC-80
+  * Torque 2D MIT
+  * Tumult Hype
+  * Turbulenz
+  * Twine
 * U
   * Unity 2D https://unity.com/solutions/2d
   * Unreal Engine
   * Urho3D
-UDK
-uScript + Unity3D
+  * UDK
+  * uScript + Unity3D
 * V
   * v
 * W
   * Wave
-WiMi5
-Wintermute Engine
+  * WiMi5
+  * Wintermute Engine
 * X
   * Xenko
 * Y
