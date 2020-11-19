@@ -1,10 +1,5 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-Image for awesome-2d-gamedev
-Resources for 2D Game Development
-
-You can use one `#` all the way up to `######` six for different heading sizes.
+![Logo](/awesome-logo-png-transparent.png)
+Awsome Resources for 2D Game Development
 
 # Symbols
 * free :free:
