@@ -48,15 +48,14 @@ Table of contents
   * CRM32Pro SDK http://www.megastormsystems.com/gdks/crm32pro
   * ct.js https://ctjs.rocks/
 * D
-  * Defold
-  * Duality
-  * DirectSpace
+  * Defold https://defold.com/
+  * Duality https://www.duality2d.net/
 * E
   * Ebiten
-Ejecta
-Engine 001 Game Maker
-ENIGMA Development Environment
-Ethanon Engine
+  * Ejecta
+  * Engine 001 Game Maker
+  * ENIGMA Development Environment
+  * Ethanon Engine
 * F
   * FNA 
   * friGame
