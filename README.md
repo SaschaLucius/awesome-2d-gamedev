@@ -12,7 +12,16 @@ resources for 2D game development
 Table of contents
 =================
  * [Table of contents](#table-of-contents)
+ * [Colour Palettes](#colour-palettes)
  * [Engines](#engines)
+ * [Stores](#stores)
+
+# Colour Palettes
+* https://lospec.com/palette-list
+* https://www.pixilart.com/palettes
+* https://www.pinterest.de/NeightBit/color-palettes/
+* https://www.pinterest.de/urbanbreznik/color-ramps/
+* https://www.slynyrd.com/blog/2018/1/10/pixelblog-1-color-palettes
 
 # Engines
 [A homepage](http://github.com)[:octocat:](http://github.com):moneybag:
@@ -204,12 +213,19 @@ Table of contents
   * z
 
 
-# No 2d Engines
+## No 2d Engines
 * CopperCube
 * GameGuru https://www.game-guru.com/
 
-# Other stuff
+## Other stuff
   * Cub3D https://harm-smits.github.io/42docs/projects/cub3d.html 
+  
+  
+# Stores
+* https://itch.io/
+* https://www.humblebundle.com/
+
+
 
 # ToDo
 - [x] https://thomasgervraud.com/best-2d-game-engine
@@ -229,3 +245,5 @@ Table of contents
 - [ ] https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started
 - [ ] https://www.indiedb.com/engines
 - [ ] https://www.moddb.com/engines
+https://github.com/everestpipkin/tools-list
+https://github.com/Siilwyn/awesome-pixel-art
