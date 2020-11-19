@@ -1,5 +1,5 @@
 ![Logo](/awesome-logo-png-transparent.png)
-Awsome Resources for 2D Game Development
+resources for 2D game development
 
 # Symbols
 * free :free:
