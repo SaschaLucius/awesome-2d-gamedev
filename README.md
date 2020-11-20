@@ -69,7 +69,6 @@ Table of contents
   * GameSalad
   * GDevelop https://gdevelop-app.com/
   * Godot Engine https://godotengine.org/
-  * GameMaker Studio 2
   * GameSalad
   * GameStylus
   * GDevApp
