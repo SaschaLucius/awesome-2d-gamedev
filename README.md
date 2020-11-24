@@ -72,13 +72,11 @@ Table of contents
   * GameSalad
   * GameStylus
   * GDevApp
-  * GDevelop
   * Genome2D
   * Gideros
   * Gingee
   * GLBasic
   * GMKR
-  * Godot
   * Gosu
   * Grid
   * Grit Engine
@@ -107,7 +105,7 @@ Table of contents
   * luxe
   * LÖVE
 * M
-  * MonoGame
+  * MonoGame https://www.monogame.net/
   * Marmalade SDK
   * Melharfi
   * Microsoft XNA Game Studio
@@ -115,7 +113,6 @@ Table of contents
   * Modd.io
   * Monkey X
   * Monkey2
-  * MonoGame
 * N
   * nCine https://ncine.github.io/
   * nCine
@@ -132,7 +129,7 @@ Table of contents
   * Overlap 2D
   * Oxygine 2D C++ Game Framework
 * P
-  * Phaser
+  * Phaser https://phaser.io/
   * PixiJS
   * Pygame
   * Poston
@@ -145,7 +142,7 @@ Table of contents
   * Pixel
   * PlayMaker + Unity3D
   * Polycode
-  * Pygame
+  * Pygame https://www.pygame.org/
   * Pyglet
   * Pyxel Edit
 * Q
@@ -156,9 +153,7 @@ Table of contents
   * RPG Maker  
   * Rainbow
   * raylib
-  * Ren'Py
   * Roblox Studio
-  * RPG Maker
 * S
   * SDL
   * SFML
@@ -168,7 +163,7 @@ Table of contents
   * Superpowers
   * SpiteKit
   * Spring Engine
-  * Scratch
+  * Scratch https://scratch.mit.edu/
   * SDL
   * SFML
   * ShiVa
@@ -188,7 +183,7 @@ Table of contents
   * Twine
 * U
   * Unity 2D https://unity.com/solutions/2d
-  * Unreal Engine
+  * Unreal Engine https://www.unrealengine.com/
   * Urho3D
   * UDK
   * uScript + Unity3D
